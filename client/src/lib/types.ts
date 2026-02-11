@@ -23,7 +23,7 @@ export const CATEGORIES: { id: Category; label: string; icon: string }[] = [
   { id: "characters", label: "Characters", icon: "Users" },
   { id: "locations", label: "Locations", icon: "Map" },
   { id: "cultures", label: "Cultures", icon: "Globe" },
-  { id: "magic", label: "Magic Systems", icon: "Sparkles" },
+  { id: "magic", label: "Redactory", icon: "Sparkles" },
   { id: "technology", label: "Technology", icon: "Cpu" },
   { id: "timeline", label: "Timeline", icon: "Clock" },
   { id: "misc", label: "Miscellaneous", icon: "FileBox" },
